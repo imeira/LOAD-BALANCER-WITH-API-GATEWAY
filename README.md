@@ -6,6 +6,7 @@
   </tr>
 </table>
 
+[![DZone](https://dzone.com/themes/dz20/images/dz_cropped.webp)](https://dzone.com/articles/create-an-api-gateway-with-load-balancer-in-java)
 [![Platform](https://img.shields.io/badge/Java-11%2B-red)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![Library](https://img.shields.io/badge/Eureka%20Server-Netflix-blue)](https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server)
 [![Library](https://img.shields.io/badge/Zuul-Netflix-yellow)](https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-zuul)
